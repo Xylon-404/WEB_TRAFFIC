@@ -59,22 +59,38 @@ python traffic.py
 ```
 
 ##⚠️ Disclaimer
+
 ❗ এই tool কখনোই:
+
 Illegal traffic
+
 DDoS attack
+
 Website harm করার জন্য নয়
-👉 Only for learning, testing & research purpose
-কোনো website-এ misuse করলে author দায়ী থাকবে না।
+
+##👉 Only for learning, testing & research purpose
+
+কোনো website-এ misuse করলে author 
+
+দায়ী থাকবে না।
 
 
 ##💡 Who Can Use?
+
 👨‍💻 Beginner Python learners
+
 👨‍💻 Cyber Security students
+
 👨‍💻 Web developers
+
 👨‍💻 Blogger troubleshooting learners
+
 🌟 Support & Share
+
 যদি project-টা ভালো লাগে:
+
 ⭐ Repo-তে Star দাও
+
 🍴 Fork করো
 
 
