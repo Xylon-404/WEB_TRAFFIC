@@ -69,17 +69,6 @@ Website harm করার জন্য নয়
 কোনো website-এ misuse করলে author 
 দায়ী থাকবে না।
 
-
-## 📸 Gallery
-
-![Screenshot 1](gallery/Screenshot_2026-01-22-19-02-54-77_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
-![Screenshot 2](gallery/Screenshot_2026-01-22-19-02-45-11_84d3000e3f4017145260f7618db1d683.jpg)
-![Screenshot 3](gallery/Screenshot_2026-01-22-19-00-44-72_84d3000e3f4017145260f7618db1d683.jpg)
-![Screenshot 4](gallery/Screenshot_2026-01-22-18-59-30-75_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
-
-
-
-
 ## 📸 Gallery
 
 <p align="center">
@@ -97,24 +86,6 @@ Website harm করার জন্য নয়
 <p align="center">
   <img src="gallery/Screenshot_2026-01-22-18-59-30-75_40deb401b9ffe8e1df2f1cc5ba480b12.jpg" width="80%">
 </p>
-
-
-
-
-
-##💡 Who Can Use?
-👨‍💻 Beginner Python learners
-👨‍💻 Cyber Security students
-👨‍💻 Web developers
-👨‍💻 Blogger troubleshooting learners
-🌟 Support & Share
-যদি project-টা ভালো লাগে:
-⭐ Repo-তে Star দাও
-🍴 Fork করো
-
-
-##📢 Share করো বন্ধুদের সাথে
-Knowledge should be free!
 
 
 ##👤 Author
